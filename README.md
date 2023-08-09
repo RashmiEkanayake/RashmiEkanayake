@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashmi Ekanayake</h1>
-<h3 align="center">A passionate frontend/UI UX from Sri Lanka</h3>
+<h3 align="center">I am passionate about frontend and UI/UX.</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5402.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmiekanayake&label=Profile%20views&color=0e75b6&style=flat" alt="rashmiekanayake" /> </p>
